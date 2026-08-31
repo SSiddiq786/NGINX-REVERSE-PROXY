@@ -1,0 +1,9 @@
+APACHE SERVER 
+
+sudo -i (move to the root user)
+dnf install httpd -y ( need to install  apache server automatically )
+systemctl restart httpd 
+systemctl status httpd 
+cd /var/www/html       (default path of httpd )
+vi index.html 
+<h1>THIS IS DEVOPS AND AWS COURSE</h1>
