@@ -1,0 +1,2 @@
+this is my c++ file data and 
+ptint 'this my c++ simple program '
